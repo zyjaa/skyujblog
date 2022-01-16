@@ -150,4 +150,4 @@ theme: matery
 deploy:
   type: git
   repo: git@github.com:skyuj/skyuj.github.io.git
-  branch: master
+  branch: main
